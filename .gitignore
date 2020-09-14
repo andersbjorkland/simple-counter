@@ -1,0 +1,6 @@
+###> IDE ###
+/.idea/
+simple-counter.iml
+###< IDE ###
+# Project exclude paths
+/out/
